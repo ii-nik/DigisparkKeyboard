@@ -14,6 +14,7 @@ Modified by Mümin Köykıran to support Turkish keyboard layouts
 Supported layouts:
 * tr_tr
 * be_be
+* ch_de
 * cz_cz
 * da_dk
 * de_de
@@ -46,6 +47,7 @@ Example:
 You can use:
 * kbd_tr_tr
 * kbd_be_be
+* kbd_ch_de
 * kbd_cz_cz
 * kbd_da_dk
 * kbd_de_de
